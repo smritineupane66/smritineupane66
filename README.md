@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Bootstrap Fundamentals: I'm diving into the core concepts of Bootstrap, including its grid system, typography, and utility classes.
 - 📫 How to reach me smirtineupane197@gmail.com
 - 😄 Pronouns: she/her...
-- ⚡ Fun fact: In between commits and pull requests, I often take dance breaks to recharge my creativity. Whether it's a quick salsa step or a twirl around the room, dancing adds rhythm to my coding routine. 
+
 
 <!---
 smritineupane66/smritineupane66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
