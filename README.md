@@ -22,6 +22,9 @@ Love building, learning, and growing through code.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
 <a href="https://linkedin.com/in/smriti-neupane-0b608a294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smriti-neupane" height="30" width="40" /></a>
 <a href="https://fb.com/smirti.neupane.921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="smirti.neupane.921" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/smriti1055s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="smriti1055s" height="30" width="40" /></a>
