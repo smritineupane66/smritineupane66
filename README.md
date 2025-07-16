@@ -1,20 +1,21 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Smriti Neupane</h1>
 <h3 align="center">A passionate CSIT student diving deep into backend development.  
-Currently learning JavaScript, Node.js, and exploring APIs.  
+Currently learning JavaScript, Node.js,Express.js and MongoDB.  
 Love building, learning, and growing through code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smritineupane66&label=Profile%20views&color=0e75b6&style=flat" alt="smritineupane66" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smritineupane66" alt="smritineupane66" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js core modules**
+- 🌱 I’m currently learning - **JavaScript**, exploring **Node.js core modules**, building APIs with **Express.js**, and working with **MongoDB** for database management.
 
-- 👯 I’m looking to collaborate on **JavaScript & Node.js projects**
+
+- 👯 I’m looking to collaborate on **Backend Projects**
 
 - 🤝 I’m looking for help with **Beginner-friendly backend projects**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript,Node.js and Express.js**
 
 - 📫 How to reach me **smirtineupane197@gmail.com**
 
