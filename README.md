@@ -49,7 +49,7 @@ I focus on **clean architecture**, **well-designed APIs**, and **efficient datab
 ![TypeORM](https://img.shields.io/badge/TypeORM-00597B?style=for-the-badge&logo=typeorm&logoColor=white)
 
 **Tools & Practices**  
-Git • GitHub • Postman • Swagger • MySQL Workbench • MongoDB Compass • Nodemon • REST API design • API testing • Database Modeling (draw.io / dbdiagram.io)
+Git • GitHub • Postman • Swagger • MySQL Workbench • MongoDB Compass • Nodemon • REST API design • API testing • Database Modeling 
 
 ---
 
