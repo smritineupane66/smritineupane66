@@ -8,9 +8,34 @@ I build backend systems that are **reliable, scalable, and easy to maintain**.
 
 ---
 
-### 🚀 Who I Am
-A passionate Backend Developer who enjoys turning ideas into structured, working systems.  
-I focus on **clean architecture**, **well-designed APIs**, and **efficient database handling**.
+### 🚀 About Me
+
+I am a backend developer passionate about **building production-ready server-side applications**.  
+My interests include **API development, backend architecture, database design, and system scalability**.
+
+I enjoy continuously learning new technologies and improving my ability to build **efficient and maintainable backend systems**.
+
+---
+
+### 🌱 Currently Exploring
+
+• Advanced backend architectures and scalable system design  
+• Database optimization and relational modeling  
+• Payment gateway integrations and secure transaction workflows  
+• Writing production-ready REST APIs  
+• Backend performance optimization  
+
+---
+
+### ⚡ Backend Expertise
+
+• REST API Design & Development  
+• Authentication & Authorization  
+• Payment Gateway Integration  
+• Backend Architecture Design  
+• Database Modeling & Optimization  
+• API Testing & Debugging  
+• Error Handling & Logging  
 
 ---
 
@@ -65,3 +90,5 @@ and contributes to meaningful, scalable software products.
 📧 Email: smirtineupane197@gmail.com  
 
 ---
+
+⭐ *“Hard work behind the scenes is what makes complexity feel effortless to the world.”*
